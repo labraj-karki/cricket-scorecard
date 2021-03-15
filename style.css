@@ -1,0 +1,66 @@
+*{
+    margin: auto;
+}
+
+body{
+    width: 500px;
+    height: 650px;
+    border: 2px solid black;
+    
+}
+header{
+    height: 60px;
+    background-color: green;
+}
+header h2{
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+}
+#team{
+    height: 70px;
+    
+}
+#team h2{
+    padding-top: 10px;
+}
+#battingteam{
+    height: 100px;
+    
+}
+#battingteam h1,h2{
+    padding-left: 5px;
+}
+#batsman{
+    height:150px;
+   
+   
+}
+#batsman h1{
+    font-size: 15px;
+    background-color: green;
+    color: white;
+}
+.table{
+    margin: 0px;
+    border-collapse: collapse;
+    margin-top: 10px;
+    border: 0;
+}
+.b{
+    width: 300px;
+    text-align: left;
+}
+#bowling h1{
+    font-size: 15px;
+    background-color: green;
+    color: white;
+    
+}
+h4{
+    opacity: 0.4;
+}
+footer{
+    margin-top: 70px;
+    text-align: center;
+}
